@@ -1,0 +1,6 @@
+{
+  "name": "EyeGaze Interaction Suite",
+  "description": "An interactive eye-tracking suite featuring webcam gaze tracking, calibration tools, custom gaze games (Bubble Popper, Gaze Painter, Reading Assist), and an interactive gaze simulator.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
